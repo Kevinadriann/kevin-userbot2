@@ -30,9 +30,9 @@ jobs:
       # commit changes
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'Kyura-Userbot: auto fixes'
+          commit_message: 'Kevin-Userbot: auto fixes'
           commit_options: '--no-verify --signoff'
           repository: .
-          commit_user_name: Kyura
-          commit_user_email: kyuramanage@gmail.com
-          commit_author: Kyura <kyuramanage@gmail.com>
+          commit_user_name: sylucaz
+          commit_user_email: kevinadriann3@gmail.com
+          commit_author: Kevin <kevinadriann3@gmail.com>
